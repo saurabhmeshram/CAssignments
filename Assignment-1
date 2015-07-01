@@ -1,0 +1,4 @@
+Implement the following functions as library functions using as strncpy, strncat, strncmp,
+strrchr, strspn, strcspn, strtok, strcasecmp, strstr.
+
+
